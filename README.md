@@ -6,11 +6,9 @@ Unlocks all GTA Online public radio stations in GTA V Enhanced Story Mode, inclu
 - Kult FM
 - The Music Locker
 - MOTOMAMI Los Santos
-- iFruit Radio
 - Media Player
 - Los Santos Underground Radio
-- and every other public station
-
+  
 This is a native ASI plugin. It talks to Script Hook V directly, so it does not require ScriptHookVDotNet or .NET Framework.
 
 
