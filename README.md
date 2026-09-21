@@ -12,7 +12,7 @@ Unlocks all GTA Online public radio stations in GTA V Enhanced Story Mode, inclu
 This is a native ASI plugin. It talks to Script Hook V directly, so it does not require ScriptHookVDotNet or .NET Framework.
 
 
-## Why this exists
+## Why this was made
 
 The existing way to unlock the Online stations on GTA V Enhanced is a ScriptHookVDotNet script (https://www.gta5-mods.com/scripts/unlock-radio-stations-enhanced-edition). That script needs ScriptHookVDotNet Enhanced and the .NET Framework, which is fragile on Linux under Proton/Wine, ScriptHookVDotNet crashes during startup (wine-mono throws an ObjectDisposedException in its TLS setup), so the .NET script cannot load.
 
