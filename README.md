@@ -72,7 +72,7 @@ Delete `UnlockRadioStations.asi` from the game folder.
 
 ## Important
 
-Story Mode only. Do not use it in GTA Online. Script Hook V does not work online and BattlEye will flag injected DLLs.
+Made for Story Mode only. Please do not use it in GTA Online to avoid being at risk of ban. Script Hook V does not work online and BattlEye will flag injected DLLs.
 
 
 ## How it works
